@@ -5,7 +5,7 @@ Odtud získá seznam příkazů, které provede - získá data z databáze a ode
 Je to cca stovka příkazů, které získávají informace např. o uživatelích, učitelích, absencích, bankovních výpisech, přijímačkách, konfiguraci bakalářů, ... O aktuálním využívání firmou Bakaláři svědčí mj. to, že jedny ze získávaných dat jsou "Kdo využívá flexi rozvrh" - tj. nejde o starou zapomenutou funkčnost.
 
 [Seznam popisů příkazů](https://github.com/mlanger-ds/bakalari_kradou_data/blob/main/prijate_prikazy_popisy.txt) a kompletní výpis [prijate_prikazy.json](https://github.com/mlanger-ds/bakalari_kradou_data/blob/main/prijate_prikazy.json) vč. SQL příkazů.  
-Příkazy zarovnané SQL pro lepší čtení [queries_sql_indented.json](https://github.com/mlanger-ds/bakalari_kradou_data/blob/main/queries_sql_indented.json)
+Příkazy zarovnané SQL pro lepší čtení [queries_sql_indented.json](https://github.com/mlanger-ds/bakalari_kradou_data/blob/main/queries_sql_indented.json)  
 Ukázka odesílaných dat (anonymizovaná, citlivé udaje nahrazeny XXXX) [send_first_3_anon.json](https://github.com/mlanger-ds/bakalari_kradou_data/blob/main/send_first_3_anon.json)
 
 Proč tvrdím "krade" - protože bez vědomí zákazníka získává jeho data, jeho vlastnictví prostřednictvím zadních vrátek (backdoor) v software.
