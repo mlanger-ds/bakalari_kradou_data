@@ -8,7 +8,7 @@ Proč tvrdím "krade" - protože bez vědomí zákazníka získává jeho data, 
 Podrobnosti (kompletní výpisy příkazů, odesílaných předávaných dat,... ze 4. 10. 2026) na https://github.com/mlanger-ds/bakalari_kradou_data
 
 ### Jak tomu zabránit? ###
-Jednoduše - na webovém IIS serveru do souboru C:\Windows\System32\drivers\etc\hosts doplnit řádek  
-127.0.0.1   stats.bakalari.cz
+Jednoduše - na webovém IIS serveru do souboru `C:\Windows\System32\drivers\etc\hosts` doplnit řádek (jsou nutná administrátorská práva)
+`127.0.0.1   stats.bakalari.cz`
 
 Na to jaká a kam přenáší webová aplikace bakaláři jsem se zeptal 17. 1. 2026, tiket #417458 - dosud bez odpovědi.
