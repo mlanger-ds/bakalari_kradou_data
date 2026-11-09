@@ -1,0 +1,3452 @@
+{
+  "storePayloads": [
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.901.1",
+        "queryId": "sqlX1049",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-09-04",
+          "Module": "Evidence",
+          "Parameter": "Evidence.TeacherPersonalField",
+          "Value": "[{\\\"FieldName\\\":\\\"TITUL\\\",\\\"Description\\\":\\\"titul\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"PRIJMENI\\\",\\\"Description\\\":\\\"příjmení\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"JMENO\\\",\\\"Description\\\":\\\"jméno\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"TITUL_ZA\\\",\\\"Description\\\":\\\"titul za příjmením a jménem\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"ZKRATKA\\\",\\\"Description\\\":\\\"zkratka\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"E_MAIL\\\",\\\"Description\\\":\\\"e-mailová adresa\\\",\\\"Parameters\\\":\\\"E\\\"}]"
+        },
+        {
+          "Date": "2026-09-04",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.IsEnabled",
+          "Value": "True"
+        },
+        {
+          "Date": "2026-09-04",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.Rights.AllowTeacherCreateNew",
+          "Value": "True"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.901.1",
+        "queryId": "sqlX1104",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.901.1",
+        "queryId": "sqlX1106",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-04",
+          "IsFlexiMinutesUsed": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.901.1",
+        "queryId": "sqlX1111",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-04",
+          "Year": "2026/27",
+          "Semester": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.901.1",
+        "queryId": "sqlX1049",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-09-05",
+          "Module": "Evidence",
+          "Parameter": "Evidence.TeacherPersonalField",
+          "Value": "[{\\\"FieldName\\\":\\\"TITUL\\\",\\\"Description\\\":\\\"titul\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"PRIJMENI\\\",\\\"Description\\\":\\\"příjmení\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"JMENO\\\",\\\"Description\\\":\\\"jméno\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"TITUL_ZA\\\",\\\"Description\\\":\\\"titul za příjmením a jménem\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"ZKRATKA\\\",\\\"Description\\\":\\\"zkratka\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"E_MAIL\\\",\\\"Description\\\":\\\"e-mailová adresa\\\",\\\"Parameters\\\":\\\"E\\\"}]"
+        },
+        {
+          "Date": "2026-09-05",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.IsEnabled",
+          "Value": "True"
+        },
+        {
+          "Date": "2026-09-05",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.Rights.AllowTeacherCreateNew",
+          "Value": "True"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.901.1",
+        "queryId": "sqlX1106",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-05",
+          "IsFlexiMinutesUsed": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.901.1",
+        "queryId": "sqlX1111",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-05",
+          "Year": "2026/27",
+          "Semester": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.902.1",
+        "queryId": "sqlX1000",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-04-21",
+          "UserId": "XXXXX"
+          "Module": "M",
+          "UserType": "R",
+          "PersonId": "XXXXXXX",
+          "Count": "1"
+        },
+        {
+          "Date": "2026-04-21",
+          "UserId": "XXXXX"
+          "Module": "M",
+          "UserType": "Z",
+          "PersonId": "XXXXXX",
+          "Count": "1"
+        },
+        {
+          "Date": "2026-04-21",
+          "UserId": "XXXXX"
+          "Module": "M",
+          "UserType": "Z",
+          "PersonId": "XXXXXX",
+          "Count": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.902.1",
+        "queryId": "sqlX1049",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-09-09",
+          "Module": "Evidence",
+          "Parameter": "Evidence.TeacherPersonalField",
+          "Value": "[{\\\"FieldName\\\":\\\"TITUL\\\",\\\"Description\\\":\\\"titul\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"PRIJMENI\\\",\\\"Description\\\":\\\"příjmení\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"JMENO\\\",\\\"Description\\\":\\\"jméno\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"TITUL_ZA\\\",\\\"Description\\\":\\\"titul za příjmením a jménem\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"ZKRATKA\\\",\\\"Description\\\":\\\"zkratka\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"E_MAIL\\\",\\\"Description\\\":\\\"e-mailová adresa\\\",\\\"Parameters\\\":\\\"E\\\"}]"
+        },
+        {
+          "Date": "2026-09-09",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.IsEnabled",
+          "Value": "True"
+        },
+        {
+          "Date": "2026-09-09",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.Rights.AllowTeacherCreateNew",
+          "Value": "True"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.902.1",
+        "queryId": "sqlX1096",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-03",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "XXXXX",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2026",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2023-09-01",
+          "EvidTo": "2024-09-03",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "3S",
+          "YearInSchool": "3"
+        },
+        {
+          "SampleDate": "2026-09-03",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "XXXXX",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2014",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2010-09-01",
+          "EvidTo": "2013-09-30",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "4S",
+          "YearInSchool": "4"
+        },
+        {
+          "SampleDate": "2026-09-03",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "XXXXX",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2014",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2010-09-01",
+          "EvidTo": "",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "",
+          "YearInSchool": "4"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.902.1",
+        "queryId": "sqlX1104",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.902.1",
+        "queryId": "sqlX1106",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-09",
+          "IsFlexiMinutesUsed": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.902.1",
+        "queryId": "sqlX1111",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-09",
+          "Year": "2026/27",
+          "Semester": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.902.1",
+        "queryId": "sqlX1049",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-09-11",
+          "Module": "Evidence",
+          "Parameter": "Evidence.TeacherPersonalField",
+          "Value": "[{\\\"FieldName\\\":\\\"TITUL\\\",\\\"Description\\\":\\\"titul\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"PRIJMENI\\\",\\\"Description\\\":\\\"příjmení\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"JMENO\\\",\\\"Description\\\":\\\"jméno\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"TITUL_ZA\\\",\\\"Description\\\":\\\"titul za příjmením a jménem\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"ZKRATKA\\\",\\\"Description\\\":\\\"zkratka\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"E_MAIL\\\",\\\"Description\\\":\\\"e-mailová adresa\\\",\\\"Parameters\\\":\\\"E\\\"}]"
+        },
+        {
+          "Date": "2026-09-11",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.IsEnabled",
+          "Value": "True"
+        },
+        {
+          "Date": "2026-09-11",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.Rights.AllowTeacherCreateNew",
+          "Value": "True"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.902.1",
+        "queryId": "sqlX1096",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-10",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "XXXXX",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2026",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2023-09-01",
+          "EvidTo": "2024-09-03",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "3S",
+          "YearInSchool": "3"
+        },
+        {
+          "SampleDate": "2026-09-10",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "XXXXX",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2014",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2010-09-01",
+          "EvidTo": "2013-09-30",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "4S",
+          "YearInSchool": "4"
+        },
+        {
+          "SampleDate": "2026-09-10",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "XXXXX",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2014",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2010-09-01",
+          "EvidTo": "",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "",
+          "YearInSchool": "4"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.902.1",
+        "queryId": "sqlX1106",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-11",
+          "IsFlexiMinutesUsed": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.902.1",
+        "queryId": "sqlX1111",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-11",
+          "Year": "2026/27",
+          "Semester": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.902.1",
+        "queryId": "sqlX1049",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-09-12",
+          "Module": "Evidence",
+          "Parameter": "Evidence.TeacherPersonalField",
+          "Value": "[{\\\"FieldName\\\":\\\"TITUL\\\",\\\"Description\\\":\\\"titul\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"PRIJMENI\\\",\\\"Description\\\":\\\"příjmení\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"JMENO\\\",\\\"Description\\\":\\\"jméno\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"TITUL_ZA\\\",\\\"Description\\\":\\\"titul za příjmením a jménem\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"ZKRATKA\\\",\\\"Description\\\":\\\"zkratka\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"E_MAIL\\\",\\\"Description\\\":\\\"e-mailová adresa\\\",\\\"Parameters\\\":\\\"E\\\"}]"
+        },
+        {
+          "Date": "2026-09-12",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.IsEnabled",
+          "Value": "True"
+        },
+        {
+          "Date": "2026-09-12",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.Rights.AllowTeacherCreateNew",
+          "Value": "True"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.902.1",
+        "queryId": "sqlX1106",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-12",
+          "IsFlexiMinutesUsed": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.902.1",
+        "queryId": "sqlX1111",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-12",
+          "Year": "2026/27",
+          "Semester": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1000",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-05-11",
+          "UserId": "XXXXX"
+          "Module": "M",
+          "UserType": "R",
+          "PersonId": "XXXXXXX",
+          "Count": "1"
+        },
+        {
+          "Date": "2026-05-11",
+          "UserId": "XXXXX"
+          "Module": "M",
+          "UserType": "Z",
+          "PersonId": "XXXXX",
+          "Count": "1"
+        },
+        {
+          "Date": "2026-05-11",
+          "UserId": "XXXXX"
+          "Module": "M",
+          "UserType": "Z",
+          "PersonId": "XXXXX",
+          "Count": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1005",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "UserId": "XXXXX",
+          "Date": "2021-08-30",
+          "Rows": "1",
+          "Choice": "A",
+          "Duration": ""
+        },
+        {
+          "UserId": "XXXXX",
+          "Date": "2021-08-30",
+          "Rows": "1",
+          "Choice": "A",
+          "Duration": ""
+        },
+        {
+          "UserId": "XXXXX",
+          "Date": "2021-08-30",
+          "Rows": "1",
+          "Choice": "R",
+          "Duration": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1018",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-14",
+          "Date": "2026-09-01",
+          "Lesson": "3",
+          "RealTeacher": "XXXXX",
+          "RealRoom": "",
+          "RealSubject": "5Y",
+          "RealGroup": "0",
+          "ChangeType": "1",
+          "OrgTeacher": "XXXXX",
+          "OrgRoom": "",
+          "OrgSubject": "5Y",
+          "OrgGroup": "0"
+        },
+        {
+          "SampleDate": "2026-09-14",
+          "Date": "2026-09-01",
+          "Lesson": "4",
+          "RealTeacher": "XXXXX",
+          "RealRoom": "",
+          "RealSubject": "5Y",
+          "RealGroup": "0",
+          "ChangeType": "1",
+          "OrgTeacher": "XXXXX",
+          "OrgRoom": "",
+          "OrgSubject": "5Y",
+          "OrgGroup": "0"
+        },
+        {
+          "SampleDate": "2026-09-14",
+          "Date": "2026-09-01",
+          "Lesson": "5",
+          "RealTeacher": "XXXXX",
+          "RealRoom": "",
+          "RealSubject": "5Y",
+          "RealGroup": "0",
+          "ChangeType": "1",
+          "OrgTeacher": "XXXXX",
+          "OrgRoom": "",
+          "OrgSubject": "5Y",
+          "OrgGroup": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1049",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-09-14",
+          "Module": "Evidence",
+          "Parameter": "Evidence.TeacherPersonalField",
+          "Value": "[{\\\"FieldName\\\":\\\"TITUL\\\",\\\"Description\\\":\\\"titul\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"PRIJMENI\\\",\\\"Description\\\":\\\"příjmení\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"JMENO\\\",\\\"Description\\\":\\\"jméno\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"TITUL_ZA\\\",\\\"Description\\\":\\\"titul za příjmením a jménem\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"ZKRATKA\\\",\\\"Description\\\":\\\"zkratka\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"E_MAIL\\\",\\\"Description\\\":\\\"e-mailová adresa\\\",\\\"Parameters\\\":\\\"E\\\"}]"
+        },
+        {
+          "Date": "2026-09-14",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.IsEnabled",
+          "Value": "True"
+        },
+        {
+          "Date": "2026-09-14",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.Rights.AllowTeacherCreateNew",
+          "Value": "True"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1081",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1082",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1084",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-14",
+          "TkKnihaID": "AHAXN",
+          "Date": "20250902",
+          "Lesson": "4",
+          "ClassCode": "1T",
+          "GroupCode": "DC",
+          "SubjectCode": "5Q",
+          "LessonNumber": "1",
+          "TeacherCode": "XXXXX",
+          "TopicLength": "25",
+          "NoteLength": "0",
+          "InternalNoteLength": "0",
+          "PrintNoteLength": "0",
+          "WhoWritten": "XXXXX",
+          "WhenWritten": "2509020758",
+          "WhereWritten": "T"
+        },
+        {
+          "SampleDate": "2026-09-14",
+          "TkKnihaID": "AHAXO",
+          "Date": "20250902",
+          "Lesson": "4",
+          "ClassCode": "1Z",
+          "GroupCode": "ED",
+          "SubjectCode": "5C",
+          "LessonNumber": "1",
+          "TeacherCode": "XXXXX",
+          "TopicLength": "13",
+          "NoteLength": "53",
+          "InternalNoteLength": "0",
+          "PrintNoteLength": "0",
+          "WhoWritten": "XXXXX",
+          "WhenWritten": "2509020803",
+          "WhereWritten": "T"
+        },
+        {
+          "SampleDate": "2026-09-14",
+          "TkKnihaID": "AHAXS",
+          "Date": "20250903",
+          "Lesson": "11",
+          "ClassCode": "1R",
+          "GroupCode": "CU",
+          "SubjectCode": "63",
+          "LessonNumber": "1",
+          "TeacherCode": "XXXXX",
+          "TopicLength": "16",
+          "NoteLength": "0",
+          "InternalNoteLength": "0",
+          "PrintNoteLength": "0",
+          "WhoWritten": "XXXXX",
+          "WhenWritten": "2509020840",
+          "WhereWritten": "W"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1090",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-14",
+          "MeetingInvitationId": "1",
+          "InsertedBy": "XXXXX",
+          "ModifiedBy": "XXXXX",
+          "MeetingProvider": "1",
+          "OwnerId": "XXXXX",
+          "LenghtOfTitle": "37",
+          "LenghtOfMeetingDetails": "5358",
+          "Start": "2020-09-25T17:00:00",
+          "End": "2020-09-25T18:30:00",
+          "RecipientTypeCode": "U"
+        },
+        {
+          "SampleDate": "2026-09-14",
+          "MeetingInvitationId": "2",
+          "InsertedBy": "XXXXX",
+          "ModifiedBy": "XXXXX",
+          "MeetingProvider": "1",
+          "OwnerId": "UT027",
+          "LenghtOfTitle": "4",
+          "LenghtOfMeetingDetails": "3992",
+          "Start": "2020-09-26T17:00:00",
+          "End": "2020-09-26T17:30:00",
+          "RecipientTypeCode": "U"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1091",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SurveyId": "_K00200000",
+          "OwnerId": "XXXXX",
+          "LengthOfName": "28",
+          "Type": "T",
+          "LengthOfDescription": "369",
+          "SurveyValidFrom": "20221018",
+          "SurveyValidTo": "20221024",
+          "SurveyState": "A",
+          "SurveyFor": "ZR",
+          "MaxAnswers": "2",
+          "Pages": "1",
+          "TimeFrom": "1900",
+          "TimeTo": "2300",
+          "MODIFIEDBY": "XXXXX\u0000\u0000\u0000\u0000\u0000",
+          "MODIFIED": "2022-10-18T19:45:53.610"
+        },
+        {
+          "SurveyId": "_K00300000",
+          "OwnerId": "XXXXX",
+          "LengthOfName": "4",
+          "Type": "T",
+          "LengthOfDescription": "36",
+          "SurveyValidFrom": "20221018",
+          "SurveyValidTo": "20221119",
+          "SurveyState": "A",
+          "SurveyFor": "UC",
+          "MaxAnswers": "2",
+          "Pages": "1",
+          "TimeFrom": "1929",
+          "TimeTo": "1929",
+          "MODIFIEDBY": "XXXXX\u0000\u0000\u0000\u0000\u0000",
+          "MODIFIED": "2022-10-18T18:20:44.297"
+        },
+        {
+          "SurveyId": "_K00400000",
+          "OwnerId": "UT027",
+          "LengthOfName": "28",
+          "Type": "T",
+          "LengthOfDescription": "367",
+          "SurveyValidFrom": "20221018",
+          "SurveyValidTo": "20221024",
+          "SurveyState": "A",
+          "SurveyFor": "ZZ",
+          "MaxAnswers": "2",
+          "Pages": "1",
+          "TimeFrom": "1900",
+          "TimeTo": "2300",
+          "MODIFIEDBY": "XXXXX\u0000\u0000\u0000\u0000\u0000",
+          "MODIFIED": "2022-10-18T19:46:10.777"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1093",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1094",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-14",
+          "TableSchema": "dbo",
+          "TableName": "bakalic",
+          "ColumnName": "KLIC",
+          "ColumnDataType": "text"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1095",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1096",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-11",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "XXXXX",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2026",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2023-09-01",
+          "EvidTo": "2024-09-03",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "3S",
+          "YearInSchool": "3"
+        },
+        {
+          "SampleDate": "2026-09-11",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "XXXXX",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2014",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2010-09-01",
+          "EvidTo": "2013-09-30",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "4S",
+          "YearInSchool": "4"
+        },
+        {
+          "SampleDate": "2026-09-11",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "GL0DB",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2014",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2010-09-01",
+          "EvidTo": "",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "",
+          "YearInSchool": "4"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1099",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1100",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1101",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1102",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "UserType": "U",
+          "KODC": "1ho",
+          "SampleDate": "2026-06-09",
+          "NumberOfUsers": "1",
+          "SumOfOpenings": "5"
+        },
+        {
+          "UserType": "U",
+          "KODC": "1vy",
+          "SampleDate": "2026-06-09",
+          "NumberOfUsers": "1",
+          "SumOfOpenings": "21"
+        },
+        {
+          "UserType": "U",
+          "KODC": "1zn",
+          "SampleDate": "2026-06-09",
+          "NumberOfUsers": "1",
+          "SumOfOpenings": "6"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1103",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1104",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1105",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-14",
+          "FilterId": "$$$$8",
+          "FilterGroup": "U",
+          "FilterPurpose": "F",
+          "FilterName": "letos mají \\<hodiny",
+          "FilterMode": "1",
+          "FilterCondition": "!empty(UCI_LETOS)",
+          "FilterTag": ""
+        },
+        {
+          "SampleDate": "2026-09-14",
+          "FilterId": "$$$$9",
+          "FilterGroup": "U",
+          "FilterPurpose": "F",
+          "FilterName": "\\<třídní učitelé",
+          "FilterMode": "1",
+          "FilterCondition": "!EMPTY(TRIDNI())",
+          "FilterTag": ""
+        },
+        {
+          "SampleDate": "2026-09-14",
+          "FilterId": "$$$$A",
+          "FilterGroup": "U",
+          "FilterPurpose": "F",
+          "FilterName": "množina učitelů",
+          "FilterMode": "1",
+          "FilterCondition": "MnozinaUcitelu(\"?[SkupUcit,nazev,zkratka+' '+nazev]\")",
+          "FilterTag": ""
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1106",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-14",
+          "IsFlexiMinutesUsed": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1109",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1110",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-14",
+          "NewPaymentsIsEnabled": "False",
+          "PaymentPrescriptionMinYear": "0",
+          "PaymentPrescriptionMaxYear": "0",
+          "PaymentMinYear": "0",
+          "PaymentMaxYear": "0",
+          "OriginPaymentsIsEnabled": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1111",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-14",
+          "Year": "2026/27",
+          "Semester": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1113",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-14",
+          "SchoolYear": "2020/21",
+          "ModuleId": "SSB"
+        },
+        {
+          "SampleDate": "2026-09-14",
+          "SchoolYear": "2020/21",
+          "ModuleId": "SUP"
+        },
+        {
+          "SampleDate": "2026-09-14",
+          "SchoolYear": "2021/22",
+          "ModuleId": "SSB"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1049",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-09-14",
+          "Module": "Evidence",
+          "Parameter": "Evidence.TeacherPersonalField",
+          "Value": "[{\\\"FieldName\\\":\\\"TITUL\\\",\\\"Description\\\":\\\"titul\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"PRIJMENI\\\",\\\"Description\\\":\\\"příjmení\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"JMENO\\\",\\\"Description\\\":\\\"jméno\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"TITUL_ZA\\\",\\\"Description\\\":\\\"titul za příjmením a jménem\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"ZKRATKA\\\",\\\"Description\\\":\\\"zkratka\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"E_MAIL\\\",\\\"Description\\\":\\\"e-mailová adresa\\\",\\\"Parameters\\\":\\\"E\\\"}]"
+        },
+        {
+          "Date": "2026-09-14",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.IsEnabled",
+          "Value": "True"
+        },
+        {
+          "Date": "2026-09-14",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.Rights.AllowTeacherCreateNew",
+          "Value": "True"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.910.8",
+        "queryId": "sqlX1102",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "UserType": "U",
+          "KODC": "1os",
+          "SampleDate": "2026-08-17",
+          "NumberOfUsers": "1",
+          "SumOfOpenings": "103"
+        },
+        {
+          "UserType": "U",
+          "KODC": "1ro",
+          "SampleDate": "2026-08-19",
+          "NumberOfUsers": "1",
+          "SumOfOpenings": "22"
+        },
+        {
+          "UserType": "U",
+          "KODC": "1os",
+          "SampleDate": "2026-08-24",
+          "NumberOfUsers": "1",
+          "SumOfOpenings": "75"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1000",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-05-11",
+          "UserId": "XXXXX"
+          "Module": "M",
+          "UserType": "R",
+          "PersonId": "XXXXX",
+          "Count": "1"
+        },
+        {
+          "Date": "2026-05-11",
+          "UserId": "XXXXX"
+          "Module": "M",
+          "UserType": "Z",
+          "PersonId": "XXXXX",
+          "Count": "1"
+        },
+        {
+          "Date": "2026-05-11",
+          "UserId": "XXXXX"
+          "Module": "M",
+          "UserType": "Z",
+          "PersonId": "XXXXX",
+          "Count": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1049",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-09-15",
+          "Module": "Evidence",
+          "Parameter": "Evidence.TeacherPersonalField",
+          "Value": "[{\\\"FieldName\\\":\\\"TITUL\\\",\\\"Description\\\":\\\"titul\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"PRIJMENI\\\",\\\"Description\\\":\\\"příjmení\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"JMENO\\\",\\\"Description\\\":\\\"jméno\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"TITUL_ZA\\\",\\\"Description\\\":\\\"titul za příjmením a jménem\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"ZKRATKA\\\",\\\"Description\\\":\\\"zkratka\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"E_MAIL\\\",\\\"Description\\\":\\\"e-mailová adresa\\\",\\\"Parameters\\\":\\\"E\\\"}]"
+        },
+        {
+          "Date": "2026-09-15",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.IsEnabled",
+          "Value": "True"
+        },
+        {
+          "Date": "2026-09-15",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.Rights.AllowTeacherCreateNew",
+          "Value": "True"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1093",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1096",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-11",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "XXXXX",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2026",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2023-09-01",
+          "EvidTo": "2024-09-03",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "3S",
+          "YearInSchool": "3"
+        },
+        {
+          "SampleDate": "2026-09-11",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "XXXXX",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2014",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2010-09-01",
+          "EvidTo": "2013-09-30",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "4S",
+          "YearInSchool": "4"
+        },
+        {
+          "SampleDate": "2026-09-11",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "XXXXX",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2014",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2010-09-01",
+          "EvidTo": "",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "",
+          "YearInSchool": "4"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1102",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "UserType": "U",
+          "KODC": "K03",
+          "SampleDate": "2026-09-13",
+          "NumberOfUsers": "1",
+          "SumOfOpenings": "2"
+        },
+        {
+          "UserType": "U",
+          "KODC": "M02",
+          "SampleDate": "2026-09-13",
+          "NumberOfUsers": "1",
+          "SumOfOpenings": "1"
+        },
+        {
+          "UserType": "U",
+          "KODC": "S02",
+          "SampleDate": "2026-09-13",
+          "NumberOfUsers": "1",
+          "SumOfOpenings": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1104",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1106",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-15",
+          "IsFlexiMinutesUsed": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1111",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-15",
+          "Year": "2026/27",
+          "Semester": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1049",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-09-16",
+          "Module": "Evidence",
+          "Parameter": "Evidence.TeacherPersonalField",
+          "Value": "[{\\\"FieldName\\\":\\\"TITUL\\\",\\\"Description\\\":\\\"titul\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"PRIJMENI\\\",\\\"Description\\\":\\\"příjmení\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"JMENO\\\",\\\"Description\\\":\\\"jméno\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"TITUL_ZA\\\",\\\"Description\\\":\\\"titul za příjmením a jménem\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"ZKRATKA\\\",\\\"Description\\\":\\\"zkratka\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"E_MAIL\\\",\\\"Description\\\":\\\"e-mailová adresa\\\",\\\"Parameters\\\":\\\"E\\\"}]"
+        },
+        {
+          "Date": "2026-09-16",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.IsEnabled",
+          "Value": "True"
+        },
+        {
+          "Date": "2026-09-16",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.Rights.AllowTeacherCreateNew",
+          "Value": "True"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1106",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-16",
+          "IsFlexiMinutesUsed": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1111",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-16",
+          "Year": "2026/27",
+          "Semester": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1049",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-09-17",
+          "Module": "Evidence",
+          "Parameter": "Evidence.TeacherPersonalField",
+          "Value": "[{\\\"FieldName\\\":\\\"TITUL\\\",\\\"Description\\\":\\\"titul\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"PRIJMENI\\\",\\\"Description\\\":\\\"příjmení\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"JMENO\\\",\\\"Description\\\":\\\"jméno\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"TITUL_ZA\\\",\\\"Description\\\":\\\"titul za příjmením a jménem\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"ZKRATKA\\\",\\\"Description\\\":\\\"zkratka\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"E_MAIL\\\",\\\"Description\\\":\\\"e-mailová adresa\\\",\\\"Parameters\\\":\\\"E\\\"}]"
+        },
+        {
+          "Date": "2026-09-17",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.IsEnabled",
+          "Value": "True"
+        },
+        {
+          "Date": "2026-09-17",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.Rights.AllowTeacherCreateNew",
+          "Value": "True"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1106",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-17",
+          "IsFlexiMinutesUsed": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1111",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-17",
+          "Year": "2026/27",
+          "Semester": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1049",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-09-19",
+          "Module": "Evidence",
+          "Parameter": "Evidence.TeacherPersonalField",
+          "Value": "[{\\\"FieldName\\\":\\\"TITUL\\\",\\\"Description\\\":\\\"titul\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"PRIJMENI\\\",\\\"Description\\\":\\\"příjmení\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"JMENO\\\",\\\"Description\\\":\\\"jméno\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"TITUL_ZA\\\",\\\"Description\\\":\\\"titul za příjmením a jménem\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"ZKRATKA\\\",\\\"Description\\\":\\\"zkratka\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"E_MAIL\\\",\\\"Description\\\":\\\"e-mailová adresa\\\",\\\"Parameters\\\":\\\"E\\\"}]"
+        },
+        {
+          "Date": "2026-09-19",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.IsEnabled",
+          "Value": "True"
+        },
+        {
+          "Date": "2026-09-19",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.Rights.AllowTeacherCreateNew",
+          "Value": "True"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1106",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-19",
+          "IsFlexiMinutesUsed": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1111",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-19",
+          "Year": "2026/27",
+          "Semester": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1003",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1004",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1005",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "UserId": "XXXXX",
+          "Date": "2021-08-30",
+          "Rows": "1",
+          "Choice": "A",
+          "Duration": ""
+        },
+        {
+          "UserId": "XXXXX",
+          "Date": "2021-08-30",
+          "Rows": "1",
+          "Choice": "A",
+          "Duration": ""
+        },
+        {
+          "UserId": "XXXXX",
+          "Date": "2021-08-30",
+          "Rows": "1",
+          "Choice": "R",
+          "Duration": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1009",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-20",
+          "Typ": "D",
+          "IsSeparatedAccount": "False",
+          "Pocet": "255"
+        },
+        {
+          "SampleDate": "2026-09-20",
+          "Typ": "S",
+          "IsSeparatedAccount": "False",
+          "Pocet": "1"
+        },
+        {
+          "SampleDate": "2026-09-20",
+          "Typ": "V",
+          "IsSeparatedAccount": "False",
+          "Pocet": "55"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1012",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1017",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1018",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-20",
+          "Date": "2026-09-01",
+          "Lesson": "3",
+          "RealTeacher": "XXXXX",
+          "RealRoom": "",
+          "RealSubject": "5Y",
+          "RealGroup": "0",
+          "ChangeType": "1",
+          "OrgTeacher": "XXXXX",
+          "OrgRoom": "",
+          "OrgSubject": "5Y",
+          "OrgGroup": "0"
+        },
+        {
+          "SampleDate": "2026-09-20",
+          "Date": "2026-09-01",
+          "Lesson": "4",
+          "RealTeacher": "XXXXX",
+          "RealRoom": "",
+          "RealSubject": "5Y",
+          "RealGroup": "0",
+          "ChangeType": "1",
+          "OrgTeacher": "XXXXX",
+          "OrgRoom": "",
+          "OrgSubject": "5Y",
+          "OrgGroup": "0"
+        },
+        {
+          "SampleDate": "2026-09-20",
+          "Date": "2026-09-01",
+          "Lesson": "5",
+          "RealTeacher": "XXXXX",
+          "RealRoom": "",
+          "RealSubject": "5Y",
+          "RealGroup": "0",
+          "ChangeType": "1",
+          "OrgTeacher": "XXXXX",
+          "OrgRoom": "",
+          "OrgSubject": "5Y",
+          "OrgGroup": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1035",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-20",
+          "Date": "2026-09-13",
+          "SenderType": "R",
+          "Sender_PersonId": "XXXXX",
+          "BodyLenght": "470",
+          "SubjectLenght": "",
+          "IsAnswer": "False",
+          "OldKomens": "False",
+          "IsHomeworkId": "False",
+          "Discriminator": "ApologyMessage",
+          "SenderHidden": "False",
+          "Class": "",
+          "RecipientType": "U",
+          "NumberOfItems": "1"
+        },
+        {
+          "SampleDate": "2026-09-20",
+          "Date": "2026-09-13",
+          "SenderType": "R",
+          "Sender_PersonId": "XXXXX",
+          "BodyLenght": "688",
+          "SubjectLenght": "118",
+          "IsAnswer": "False",
+          "OldKomens": "False",
+          "IsHomeworkId": "False",
+          "Discriminator": "GeneralMessage",
+          "SenderHidden": "False",
+          "Class": "",
+          "RecipientType": "U",
+          "NumberOfItems": "4"
+        },
+        {
+          "SampleDate": "2026-09-20",
+          "Date": "2026-09-13",
+          "SenderType": "R",
+          "Sender_PersonId": "XXXXX",
+          "BodyLenght": "306",
+          "SubjectLenght": "42",
+          "IsAnswer": "False",
+          "OldKomens": "False",
+          "IsHomeworkId": "False",
+          "Discriminator": "GeneralMessage",
+          "SenderHidden": "False",
+          "Class": "",
+          "RecipientType": "U",
+          "NumberOfItems": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1043",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1047",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1049",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-09-20",
+          "Module": "Evidence",
+          "Parameter": "Evidence.TeacherPersonalField",
+          "Value": "[{\\\"FieldName\\\":\\\"TITUL\\\",\\\"Description\\\":\\\"titul\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"PRIJMENI\\\",\\\"Description\\\":\\\"příjmení\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"JMENO\\\",\\\"Description\\\":\\\"jméno\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"TITUL_ZA\\\",\\\"Description\\\":\\\"titul za příjmením a jménem\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"ZKRATKA\\\",\\\"Description\\\":\\\"zkratka\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"E_MAIL\\\",\\\"Description\\\":\\\"e-mailová adresa\\\",\\\"Parameters\\\":\\\"E\\\"}]"
+        },
+        {
+          "Date": "2026-09-20",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.IsEnabled",
+          "Value": "True"
+        },
+        {
+          "Date": "2026-09-20",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.Rights.AllowTeacherCreateNew",
+          "Value": "True"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1050",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1051",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1066",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1067",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1069",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1070",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1072",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-20",
+          "RecordId": "1",
+          "Inserted": "2025-05-21T13:22:48.6215152",
+          "InsertedBy": "XXXXX",
+          "Modified": "2025-05-21T13:22:48.6215152",
+          "ModifiedBy": "XXXXX",
+          "FirstNameLength": "5",
+          "LastNameLength": "8",
+          "Title": "",
+          "TitleAfter": "",
+          "BirthNumberHashChecksum": "0",
+          "BirthDatePeriod": "",
+          "Gender": "0",
+          "CitizenshipCountry": "",
+          "CitizenshipQualifikator": "",
+          "DoctorFilled": "False",
+          "HealthInsuranceCodeFilled": "False",
+          "NoteLength": "",
+          "Note1Length": "",
+          "Note2Length": "",
+          "Deleted": "False",
+          "CellPhoneFilled": "False",
+          "EmailFilled": "False",
+          "DataBoxFilled": "False",
+          "OtherContactFilled": "False",
+          "EvidenceId": "",
+          "PermanentAddress_City": "",
+          "PermanentAddress_Country": "",
+          "HasCorrespondenceAddress": "False",
+          "Discriminator": "Candidate",
+          "OrderOfInterest": "1",
+          "RegistrationNumber": "",
+          "DocketNumber": "",
+          "EvidenceNumber": "",
+          "AlteredWorkingAbility": "False",
+          "RoundId": "25",
+          "LastSchool": "",
+          "LastSchoolIZO": "",
+          "LastEducationBranch": "",
+          "LastLanguage": "",
+          "FirstIZO": "",
+          "FirstSchoolName": "",
+          "FirstBranch": "",
+          "FirstAdditionalBranch": "",
+          "SecondIZO": "",
+          "SecondSchoolName": "",
+          "SecondBranch": "",
+          "SecondAdditionalBranch": "",
+          "PUP": "0",
+          "DateOfForm": "2025-04-09T00:00:00",
+          "AdmissionResult": "0",
+          "AdmissionResultRank": "0",
+          "AdmissionRankForDisplay": "",
+          "AdmissionResultData": "0,0000",
+          "ImportedResult": "False",
+          "AdmissionResultNoticeLength": "",
+          "RuprResult": "",
+          "QRCodeId": "",
+          "WithoutCzechLanguageExam": "False"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1074",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1075",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1076",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1077",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1078",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1079",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": []
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1086",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-20",
+          "IdPrubHea": "***XXXXX",
+          "SchoolYear": "2025/26",
+          "Semester": "2",
+          "AtomId": "XXXXX",
+          "ColumnOrder": "0",
+          "Caption": "  0 133 13320",
+          "Type": "",
+          "Date": "",
+          "NoteLength": "0",
+          "PointsMaxValue": "0",
+          "PointsToMark": "",
+          "DateTime": "2602131401",
+          "Colour": "",
+          "MomentOfPublishing": ""
+        },
+        {
+          "SampleDate": "2026-09-20",
+          "IdPrubHea": "001({IAK00",
+          "SchoolYear": "2024/25",
+          "Semester": "1",
+          "AtomId": "XXXXX",
+          "ColumnOrder": "23",
+          "Caption": "Test č.10",
+          "Type": "X",
+          "Date": "23.01.25",
+          "NoteLength": "18",
+          "PointsMaxValue": "0",
+          "PointsToMark": "",
+          "DateTime": "2501240849",
+          "Colour": "",
+          "MomentOfPublishing": ""
+        },
+        {
+          "SampleDate": "2026-09-20",
+          "IdPrubHea": "001(GCLV00",
+          "SchoolYear": "2025/26",
+          "Semester": "1",
+          "AtomId": "XXXXX",
+          "ColumnOrder": "7",
+          "Caption": "Test č. 02A",
+          "Type": "X",
+          "Date": "02.10.25",
+          "NoteLength": "112",
+          "PointsMaxValue": "0",
+          "PointsToMark": "",
+          "DateTime": "2510071357",
+          "Colour": "128,255,255",
+          "MomentOfPublishing": ""
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1087",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-20",
+          "TkUkolId": "1RCS[CEKGN",
+          "ClassCode": "1R",
+          "GroupCode": "CS",
+          "SubjectCode": "5P",
+          "TeacherCode": "XXXXX",
+          "ListOfStudents": "XXXXX*XXXXX*XXXXX*XXXXX*XXXXX*XXXXX*XXXXX",
+          "DateOfAssignment": "20260204",
+          "LessonNumber": "10",
+          "TypeOfHomework": "20",
+          "TextLength": "79",
+          "NoteLength": "0",
+          "Deadline": "20260211",
+          "ListOfStudentsWithDoneWork": "",
+          "KomensId": "",
+          "Modified": "2026-02-09T08:19:43.340",
+          "ModifiedBy": ""
+        },
+        {
+          "SampleDate": "2026-09-20",
+          "TkUkolId": "1RCS[CEKMN",
+          "ClassCode": "1R",
+          "GroupCode": "CS",
+          "SubjectCode": "5P",
+          "TeacherCode": "U000K",
+          "ListOfStudents": "XXXXX*XXXXX*XXXXX*XXXXX*XXXXX*",
+          "DateOfAssignment": "20260204",
+          "LessonNumber": "10",
+          "TypeOfHomework": "20",
+          "TextLength": "130",
+          "NoteLength": "0",
+          "Deadline": "20260210",
+          "ListOfStudentsWithDoneWork": "",
+          "KomensId": "",
+          "Modified": "2026-02-09T08:19:55.137",
+          "ModifiedBy": ""
+        },
+        {
+          "SampleDate": "2026-09-20",
+          "TkUkolId": "1RCS[CELSN",
+          "ClassCode": "1R",
+          "GroupCode": "CS",
+          "SubjectCode": "69",
+          "TeacherCode": "U000K",
+          "ListOfStudents": "XXXXX*XXXXX*XXXXX*",
+          "DateOfAssignment": "20260204",
+          "LessonNumber": "11",
+          "TypeOfHomework": "20",
+          "TextLength": "155",
+          "NoteLength": "0",
+          "Deadline": "20260210",
+          "ListOfStudentsWithDoneWork": "",
+          "KomensId": "",
+          "Modified": "2026-02-05T04:55:49.067",
+          "ModifiedBy": ""
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1106",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-20",
+          "IsFlexiMinutesUsed": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1111",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-20",
+          "Year": "2026/27",
+          "Semester": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1049",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-09-25",
+          "Module": "Evidence",
+          "Parameter": "Evidence.TeacherPersonalField",
+          "Value": "[{\\\"FieldName\\\":\\\"TITUL\\\",\\\"Description\\\":\\\"titul\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"PRIJMENI\\\",\\\"Description\\\":\\\"příjmení\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"JMENO\\\",\\\"Description\\\":\\\"jméno\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"TITUL_ZA\\\",\\\"Description\\\":\\\"titul za příjmením a jménem\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"ZKRATKA\\\",\\\"Description\\\":\\\"zkratka\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"E_MAIL\\\",\\\"Description\\\":\\\"e-mailová adresa\\\",\\\"Parameters\\\":\\\"E\\\"}]"
+        },
+        {
+          "Date": "2026-09-25",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.IsEnabled",
+          "Value": "True"
+        },
+        {
+          "Date": "2026-09-25",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.Rights.AllowTeacherCreateNew",
+          "Value": "True"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1106",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-25",
+          "IsFlexiMinutesUsed": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1111",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-25",
+          "Year": "2026/27",
+          "Semester": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1049",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-09-26",
+          "Module": "Evidence",
+          "Parameter": "Evidence.TeacherPersonalField",
+          "Value": "[{\\\"FieldName\\\":\\\"TITUL\\\",\\\"Description\\\":\\\"titul\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"PRIJMENI\\\",\\\"Description\\\":\\\"příjmení\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"JMENO\\\",\\\"Description\\\":\\\"jméno\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"TITUL_ZA\\\",\\\"Description\\\":\\\"titul za příjmením a jménem\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"ZKRATKA\\\",\\\"Description\\\":\\\"zkratka\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"E_MAIL\\\",\\\"Description\\\":\\\"e-mailová adresa\\\",\\\"Parameters\\\":\\\"E\\\"}]"
+        },
+        {
+          "Date": "2026-09-26",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.IsEnabled",
+          "Value": "True"
+        },
+        {
+          "Date": "2026-09-26",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.Rights.AllowTeacherCreateNew",
+          "Value": "True"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1106",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-26",
+          "IsFlexiMinutesUsed": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1111",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-26",
+          "Year": "2026/27",
+          "Semester": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1005",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "UserId": "XXXXX",
+          "Date": "2021-08-30",
+          "Rows": "1",
+          "Choice": "A",
+          "Duration": ""
+        },
+        {
+          "UserId": "XXXXX",
+          "Date": "2021-08-30",
+          "Rows": "1",
+          "Choice": "A",
+          "Duration": ""
+        },
+        {
+          "UserId": "XXXXX",
+          "Date": "2021-08-30",
+          "Rows": "1",
+          "Choice": "R",
+          "Duration": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1009",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-27",
+          "Typ": "D",
+          "IsSeparatedAccount": "False",
+          "Pocet": "279"
+        },
+        {
+          "SampleDate": "2026-09-27",
+          "Typ": "S",
+          "IsSeparatedAccount": "False",
+          "Pocet": "1"
+        },
+        {
+          "SampleDate": "2026-09-27",
+          "Typ": "V",
+          "IsSeparatedAccount": "False",
+          "Pocet": "55"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1018",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-27",
+          "Date": "2026-09-05",
+          "Lesson": "4",
+          "RealTeacher": "XXXXX",
+          "RealRoom": "@$",
+          "RealSubject": "5Y",
+          "RealGroup": "0",
+          "ChangeType": "1",
+          "OrgTeacher": "XXXXX",
+          "OrgRoom": "@$",
+          "OrgSubject": "5Y",
+          "OrgGroup": "0"
+        },
+        {
+          "SampleDate": "2026-09-27",
+          "Date": "2026-09-05",
+          "Lesson": "3",
+          "RealTeacher": "XXXXX",
+          "RealRoom": "@$",
+          "RealSubject": "5Y",
+          "RealGroup": "0",
+          "ChangeType": "1",
+          "OrgTeacher": "XXXXX",
+          "OrgRoom": "@$",
+          "OrgSubject": "5Y",
+          "OrgGroup": "0"
+        },
+        {
+          "SampleDate": "2026-09-27",
+          "Date": "2026-09-05",
+          "Lesson": "13",
+          "RealTeacher": "XXXXX",
+          "RealRoom": "@$",
+          "RealSubject": "5Y",
+          "RealGroup": "0",
+          "ChangeType": "1",
+          "OrgTeacher": "XXXXX",
+          "OrgRoom": "@$",
+          "OrgSubject": "5Y",
+          "OrgGroup": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1035",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-27",
+          "Date": "2026-09-20",
+          "SenderType": "R",
+          "Sender_PersonId": "XXXXX",
+          "BodyLenght": "352",
+          "SubjectLenght": "",
+          "IsAnswer": "False",
+          "OldKomens": "False",
+          "IsHomeworkId": "False",
+          "Discriminator": "ApologyMessage",
+          "SenderHidden": "False",
+          "Class": "",
+          "RecipientType": "U",
+          "NumberOfItems": "1"
+        },
+        {
+          "SampleDate": "2026-09-27",
+          "Date": "2026-09-20",
+          "SenderType": "R",
+          "Sender_PersonId": "XXXXX",
+          "BodyLenght": "220",
+          "SubjectLenght": "",
+          "IsAnswer": "False",
+          "OldKomens": "False",
+          "IsHomeworkId": "False",
+          "Discriminator": "ApologyMessage",
+          "SenderHidden": "False",
+          "Class": "",
+          "RecipientType": "U",
+          "NumberOfItems": "1"
+        },
+        {
+          "SampleDate": "2026-09-27",
+          "Date": "2026-09-20",
+          "SenderType": "R",
+          "Sender_PersonId": "XXXXX",
+          "BodyLenght": "144",
+          "SubjectLenght": "",
+          "IsAnswer": "False",
+          "OldKomens": "False",
+          "IsHomeworkId": "False",
+          "Discriminator": "ApologyMessage",
+          "SenderHidden": "False",
+          "Class": "",
+          "RecipientType": "U",
+          "NumberOfItems": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1049",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-09-27",
+          "Module": "Evidence",
+          "Parameter": "Evidence.TeacherPersonalField",
+          "Value": "[{\\\"FieldName\\\":\\\"TITUL\\\",\\\"Description\\\":\\\"titul\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"PRIJMENI\\\",\\\"Description\\\":\\\"příjmení\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"JMENO\\\",\\\"Description\\\":\\\"jméno\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"TITUL_ZA\\\",\\\"Description\\\":\\\"titul za příjmením a jménem\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"ZKRATKA\\\",\\\"Description\\\":\\\"zkratka\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"E_MAIL\\\",\\\"Description\\\":\\\"e-mailová adresa\\\",\\\"Parameters\\\":\\\"E\\\"}]"
+        },
+        {
+          "Date": "2026-09-27",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.IsEnabled",
+          "Value": "True"
+        },
+        {
+          "Date": "2026-09-27",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.Rights.AllowTeacherCreateNew",
+          "Value": "True"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1072",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-27",
+          "RecordId": "1",
+          "Inserted": "2025-05-21T13:22:48.6215152",
+          "InsertedBy": "XXXXX",
+          "Modified": "2025-05-21T13:22:48.6215152",
+          "ModifiedBy": "XXXXX",
+          "FirstNameLength": "5",
+          "LastNameLength": "8",
+          "Title": "",
+          "TitleAfter": "",
+          "BirthNumberHashChecksum": "0",
+          "BirthDatePeriod": "",
+          "Gender": "0",
+          "CitizenshipCountry": "",
+          "CitizenshipQualifikator": "",
+          "DoctorFilled": "False",
+          "HealthInsuranceCodeFilled": "False",
+          "NoteLength": "",
+          "Note1Length": "",
+          "Note2Length": "",
+          "Deleted": "False",
+          "CellPhoneFilled": "False",
+          "EmailFilled": "False",
+          "DataBoxFilled": "False",
+          "OtherContactFilled": "False",
+          "EvidenceId": "",
+          "PermanentAddress_City": "",
+          "PermanentAddress_Country": "",
+          "HasCorrespondenceAddress": "False",
+          "Discriminator": "Candidate",
+          "OrderOfInterest": "1",
+          "RegistrationNumber": "",
+          "DocketNumber": "",
+          "EvidenceNumber": "",
+          "AlteredWorkingAbility": "False",
+          "RoundId": "25",
+          "LastSchool": "",
+          "LastSchoolIZO": "",
+          "LastEducationBranch": "",
+          "LastLanguage": "",
+          "FirstIZO": "",
+          "FirstSchoolName": "",
+          "FirstBranch": "",
+          "FirstAdditionalBranch": "",
+          "SecondIZO": "",
+          "SecondSchoolName": "",
+          "SecondBranch": "",
+          "SecondAdditionalBranch": "",
+          "PUP": "0",
+          "DateOfForm": "2025-04-09T00:00:00",
+          "AdmissionResult": "0",
+          "AdmissionResultRank": "0",
+          "AdmissionRankForDisplay": "",
+          "AdmissionResultData": "0,0000",
+          "ImportedResult": "False",
+          "AdmissionResultNoticeLength": "",
+          "RuprResult": "",
+          "QRCodeId": "",
+          "WithoutCzechLanguageExam": "False"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1086",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-27",
+          "IdPrubHea": "***XXXXX",
+          "SchoolYear": "2025/26",
+          "Semester": "2",
+          "AtomId": "XXXXX",
+          "ColumnOrder": "0",
+          "Caption": "  0 133 13320",
+          "Type": "",
+          "Date": "",
+          "NoteLength": "0",
+          "PointsMaxValue": "0",
+          "PointsToMark": "",
+          "DateTime": "2602131401",
+          "Colour": "",
+          "MomentOfPublishing": ""
+        },
+        {
+          "SampleDate": "2026-09-27",
+          "IdPrubHea": "001({IAK00",
+          "SchoolYear": "2024/25",
+          "Semester": "1",
+          "AtomId": "XXXXX",
+          "ColumnOrder": "23",
+          "Caption": "Test č.10",
+          "Type": "X",
+          "Date": "23.01.25",
+          "NoteLength": "18",
+          "PointsMaxValue": "0",
+          "PointsToMark": "",
+          "DateTime": "2501240849",
+          "Colour": "",
+          "MomentOfPublishing": ""
+        },
+        {
+          "SampleDate": "2026-09-27",
+          "IdPrubHea": "001(GCLV00",
+          "SchoolYear": "2025/26",
+          "Semester": "1",
+          "AtomId": "XXXXX",
+          "ColumnOrder": "7",
+          "Caption": "Test č. 02A",
+          "Type": "X",
+          "Date": "02.10.25",
+          "NoteLength": "112",
+          "PointsMaxValue": "0",
+          "PointsToMark": "",
+          "DateTime": "2510071357",
+          "Colour": "128,255,255",
+          "MomentOfPublishing": ""
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1087",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-27",
+          "TkUkolId": "1RCS[CEKGN",
+          "ClassCode": "1R",
+          "GroupCode": "CS",
+          "SubjectCode": "5P",
+          "TeacherCode": "XXXXX",
+          "ListOfStudents": "XXXXX*XXXXX*XXXXX*XXXXX*",
+          "DateOfAssignment": "20260204",
+          "LessonNumber": "10",
+          "TypeOfHomework": "20",
+          "TextLength": "79",
+          "NoteLength": "0",
+          "Deadline": "20260211",
+          "ListOfStudentsWithDoneWork": "",
+          "KomensId": "",
+          "Modified": "2026-02-09T08:19:43.340",
+          "ModifiedBy": ""
+        },
+        {
+          "SampleDate": "2026-09-27",
+          "TkUkolId": "1RCS[CEKMN",
+          "ClassCode": "1R",
+          "GroupCode": "CS",
+          "SubjectCode": "5P",
+          "TeacherCode": "XXXXX",
+          "ListOfStudents": "XXXXX*XXXXX*XXXXX*XXXXX*",
+          "DateOfAssignment": "20260204",
+          "LessonNumber": "10",
+          "TypeOfHomework": "20",
+          "TextLength": "130",
+          "NoteLength": "0",
+          "Deadline": "20260210",
+          "ListOfStudentsWithDoneWork": "",
+          "KomensId": "",
+          "Modified": "2026-02-09T08:19:55.137",
+          "ModifiedBy": ""
+        },
+        {
+          "SampleDate": "2026-09-27",
+          "TkUkolId": "1RCS[CELSN",
+          "ClassCode": "1R",
+          "GroupCode": "CS",
+          "SubjectCode": "69",
+          "TeacherCode": "XXXXX",
+          "ListOfStudents": "XXXXX*XXXXX*XXXXX*XXXXX*XXXXX*XXXXX*",
+          "DateOfAssignment": "20260204",
+          "LessonNumber": "11",
+          "TypeOfHomework": "20",
+          "TextLength": "155",
+          "NoteLength": "0",
+          "Deadline": "20260210",
+          "ListOfStudentsWithDoneWork": "",
+          "KomensId": "",
+          "Modified": "2026-02-05T04:55:49.067",
+          "ModifiedBy": ""
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1106",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-27",
+          "IsFlexiMinutesUsed": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1111",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-27",
+          "Year": "2026/27",
+          "Semester": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1049",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-09-30",
+          "Module": "Evidence",
+          "Parameter": "Evidence.TeacherPersonalField",
+          "Value": "[{\\\"FieldName\\\":\\\"TITUL\\\",\\\"Description\\\":\\\"titul\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"PRIJMENI\\\",\\\"Description\\\":\\\"příjmení\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"JMENO\\\",\\\"Description\\\":\\\"jméno\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"TITUL_ZA\\\",\\\"Description\\\":\\\"titul za příjmením a jménem\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"ZKRATKA\\\",\\\"Description\\\":\\\"zkratka\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"E_MAIL\\\",\\\"Description\\\":\\\"e-mailová adresa\\\",\\\"Parameters\\\":\\\"E\\\"}]"
+        },
+        {
+          "Date": "2026-09-30",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.IsEnabled",
+          "Value": "True"
+        },
+        {
+          "Date": "2026-09-30",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.Rights.AllowTeacherCreateNew",
+          "Value": "True"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1096",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-26",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "XXXXX",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2026",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2023-09-01",
+          "EvidTo": "2024-09-03",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "3S",
+          "YearInSchool": "3"
+        },
+        {
+          "SampleDate": "2026-09-26",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "XXXXX",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2014",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2010-09-01",
+          "EvidTo": "2013-09-30",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "4S",
+          "YearInSchool": "4"
+        },
+        {
+          "SampleDate": "2026-09-26",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "XXXXX",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2014",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2010-09-01",
+          "EvidTo": "",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "",
+          "YearInSchool": "4"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1106",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-30",
+          "IsFlexiMinutesUsed": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1111",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-09-30",
+          "Year": "2026/27",
+          "Semester": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1005",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "UserId": "XXXXX",
+          "Date": "2021-08-30",
+          "Rows": "1",
+          "Choice": "A",
+          "Duration": ""
+        },
+        {
+          "UserId": "XXXXX",
+          "Date": "2021-08-30",
+          "Rows": "1",
+          "Choice": "A",
+          "Duration": ""
+        },
+        {
+          "UserId": "XXXXX",
+          "Date": "2021-08-30",
+          "Rows": "1",
+          "Choice": "R",
+          "Duration": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1009",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-10-04",
+          "Typ": "D",
+          "IsSeparatedAccount": "False",
+          "Pocet": "366"
+        },
+        {
+          "SampleDate": "2026-10-04",
+          "Typ": "S",
+          "IsSeparatedAccount": "False",
+          "Pocet": "1"
+        },
+        {
+          "SampleDate": "2026-10-04",
+          "Typ": "V",
+          "IsSeparatedAccount": "False",
+          "Pocet": "55"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1018",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-10-04",
+          "Date": "2026-09-12",
+          "Lesson": "3",
+          "RealTeacher": "XXXXX",
+          "RealRoom": "@$",
+          "RealSubject": "5Y",
+          "RealGroup": "0",
+          "ChangeType": "1",
+          "OrgTeacher": "XXXXX",
+          "OrgRoom": "@$",
+          "OrgSubject": "5Y",
+          "OrgGroup": "0"
+        },
+        {
+          "SampleDate": "2026-10-04",
+          "Date": "2026-09-12",
+          "Lesson": "4",
+          "RealTeacher": "XXXXX",
+          "RealRoom": "@$",
+          "RealSubject": "5Y",
+          "RealGroup": "0",
+          "ChangeType": "1",
+          "OrgTeacher": "XXXXX",
+          "OrgRoom": "@$",
+          "OrgSubject": "5Y",
+          "OrgGroup": "0"
+        },
+        {
+          "SampleDate": "2026-10-04",
+          "Date": "2026-09-12",
+          "Lesson": "5",
+          "RealTeacher": "XXXXX",
+          "RealRoom": "@$",
+          "RealSubject": "5Y",
+          "RealGroup": "0",
+          "ChangeType": "1",
+          "OrgTeacher": "XXXXX",
+          "OrgRoom": "@$",
+          "OrgSubject": "5Y",
+          "OrgGroup": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1035",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-10-04",
+          "Date": "2026-09-27",
+          "SenderType": "R",
+          "Sender_PersonId": "XXXXX",
+          "BodyLenght": "234",
+          "SubjectLenght": "36",
+          "IsAnswer": "False",
+          "OldKomens": "False",
+          "IsHomeworkId": "False",
+          "Discriminator": "GeneralMessage",
+          "SenderHidden": "False",
+          "Class": "",
+          "RecipientType": "U",
+          "NumberOfItems": "1"
+        },
+        {
+          "SampleDate": "2026-10-04",
+          "Date": "2026-09-27",
+          "SenderType": "U",
+          "Sender_PersonId": "XXXXX",
+          "BodyLenght": "5380",
+          "SubjectLenght": "18",
+          "IsAnswer": "True",
+          "OldKomens": "False",
+          "IsHomeworkId": "False",
+          "Discriminator": "GeneralMessage",
+          "SenderHidden": "False",
+          "Class": "",
+          "RecipientType": "Z",
+          "NumberOfItems": "1"
+        },
+        {
+          "SampleDate": "2026-10-04",
+          "Date": "2026-09-27",
+          "SenderType": "Z",
+          "Sender_PersonId": "XXXXX",
+          "BodyLenght": "540",
+          "SubjectLenght": "28",
+          "IsAnswer": "False",
+          "OldKomens": "False",
+          "IsHomeworkId": "False",
+          "Discriminator": "GeneralMessage",
+          "SenderHidden": "False",
+          "Class": "29",
+          "RecipientType": "U",
+          "NumberOfItems": "1"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1049",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "Date": "2026-10-04",
+          "Module": "Evidence",
+          "Parameter": "Evidence.TeacherPersonalField",
+          "Value": "[{\\\"FieldName\\\":\\\"TITUL\\\",\\\"Description\\\":\\\"titul\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"PRIJMENI\\\",\\\"Description\\\":\\\"příjmení\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"JMENO\\\",\\\"Description\\\":\\\"jméno\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"TITUL_ZA\\\",\\\"Description\\\":\\\"titul za příjmením a jménem\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"ZKRATKA\\\",\\\"Description\\\":\\\"zkratka\\\",\\\"Parameters\\\":\\\"\\\"},{\\\"FieldName\\\":\\\"E_MAIL\\\",\\\"Description\\\":\\\"e-mailová adresa\\\",\\\"Parameters\\\":\\\"E\\\"}]"
+        },
+        {
+          "Date": "2026-10-04",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.IsEnabled",
+          "Value": "True"
+        },
+        {
+          "Date": "2026-10-04",
+          "Module": "Gdpr",
+          "Parameter": "Gdpr.Consent.Rights.AllowTeacherCreateNew",
+          "Value": "True"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1072",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-10-04",
+          "RecordId": "1",
+          "Inserted": "2025-05-21T13:22:48.6215152",
+          "InsertedBy": "XXXXX",
+          "Modified": "2025-05-21T13:22:48.6215152",
+          "ModifiedBy": "XXXXX",
+          "FirstNameLength": "5",
+          "LastNameLength": "8",
+          "Title": "",
+          "TitleAfter": "",
+          "BirthNumberHashChecksum": "0",
+          "BirthDatePeriod": "",
+          "Gender": "0",
+          "CitizenshipCountry": "",
+          "CitizenshipQualifikator": "",
+          "DoctorFilled": "False",
+          "HealthInsuranceCodeFilled": "False",
+          "NoteLength": "",
+          "Note1Length": "",
+          "Note2Length": "",
+          "Deleted": "False",
+          "CellPhoneFilled": "False",
+          "EmailFilled": "False",
+          "DataBoxFilled": "False",
+          "OtherContactFilled": "False",
+          "EvidenceId": "",
+          "PermanentAddress_City": "",
+          "PermanentAddress_Country": "",
+          "HasCorrespondenceAddress": "False",
+          "Discriminator": "Candidate",
+          "OrderOfInterest": "1",
+          "RegistrationNumber": "",
+          "DocketNumber": "",
+          "EvidenceNumber": "",
+          "AlteredWorkingAbility": "False",
+          "RoundId": "25",
+          "LastSchool": "",
+          "LastSchoolIZO": "",
+          "LastEducationBranch": "",
+          "LastLanguage": "",
+          "FirstIZO": "",
+          "FirstSchoolName": "",
+          "FirstBranch": "",
+          "FirstAdditionalBranch": "",
+          "SecondIZO": "",
+          "SecondSchoolName": "",
+          "SecondBranch": "",
+          "SecondAdditionalBranch": "",
+          "PUP": "0",
+          "DateOfForm": "2025-04-09T00:00:00",
+          "AdmissionResult": "0",
+          "AdmissionResultRank": "0",
+          "AdmissionRankForDisplay": "",
+          "AdmissionResultData": "0,0000",
+          "ImportedResult": "False",
+          "AdmissionResultNoticeLength": "",
+          "RuprResult": "",
+          "QRCodeId": "",
+          "WithoutCzechLanguageExam": "False"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1086",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-10-04",
+          "IdPrubHea": "***BI2=]00",
+          "SchoolYear": "2025/26",
+          "Semester": "2",
+          "AtomId": "XXXXX",
+          "ColumnOrder": "0",
+          "Caption": "  0 133 13320",
+          "Type": "",
+          "Date": "",
+          "NoteLength": "0",
+          "PointsMaxValue": "0",
+          "PointsToMark": "",
+          "DateTime": "2602131401",
+          "Colour": "",
+          "MomentOfPublishing": ""
+        },
+        {
+          "SampleDate": "2026-10-04",
+          "IdPrubHea": "001({IAK00",
+          "SchoolYear": "2024/25",
+          "Semester": "1",
+          "AtomId": "XXXXX",
+          "ColumnOrder": "23",
+          "Caption": "Test č.10",
+          "Type": "X",
+          "Date": "23.01.25",
+          "NoteLength": "18",
+          "PointsMaxValue": "0",
+          "PointsToMark": "",
+          "DateTime": "2501240849",
+          "Colour": "",
+          "MomentOfPublishing": ""
+        },
+        {
+          "SampleDate": "2026-10-04",
+          "IdPrubHea": "001(GCLV00",
+          "SchoolYear": "2025/26",
+          "Semester": "1",
+          "AtomId": "XXXXX",
+          "ColumnOrder": "7",
+          "Caption": "Test č. 02A",
+          "Type": "X",
+          "Date": "02.10.25",
+          "NoteLength": "112",
+          "PointsMaxValue": "0",
+          "PointsToMark": "",
+          "DateTime": "2510071357",
+          "Colour": "128,255,255",
+          "MomentOfPublishing": ""
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1087",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-10-04",
+          "TkUkolId": "1RCS[CEKGN",
+          "ClassCode": "1R",
+          "GroupCode": "CS",
+          "SubjectCode": "5P",
+          "TeacherCode": "XXXXX",
+          "ListOfStudents": "XXXXX*XXXXX*XXXXX*XXXXX*XXXXX*",
+          "DateOfAssignment": "20260204",
+          "LessonNumber": "10",
+          "TypeOfHomework": "20",
+          "TextLength": "79",
+          "NoteLength": "0",
+          "Deadline": "20260211",
+          "ListOfStudentsWithDoneWork": "",
+          "KomensId": "",
+          "Modified": "2026-02-09T08:19:43.340",
+          "ModifiedBy": ""
+        },
+        {
+          "SampleDate": "2026-10-04",
+          "TkUkolId": "1RCS[CEKMN",
+          "ClassCode": "1R",
+          "GroupCode": "CS",
+          "SubjectCode": "5P",
+          "TeacherCode": "XXXXX",
+          "ListOfStudents": "XXXXX*XXXXX*XXXXX*XXXXX*",
+          "DateOfAssignment": "20260204",
+          "LessonNumber": "10",
+          "TypeOfHomework": "20",
+          "TextLength": "130",
+          "NoteLength": "0",
+          "Deadline": "20260210",
+          "ListOfStudentsWithDoneWork": "",
+          "KomensId": "",
+          "Modified": "2026-02-09T08:19:55.137",
+          "ModifiedBy": ""
+        },
+        {
+          "SampleDate": "2026-10-04",
+          "TkUkolId": "1RCS[CELSN",
+          "ClassCode": "1R",
+          "GroupCode": "CS",
+          "SubjectCode": "69",
+          "TeacherCode": "XXXXX",
+          "ListOfStudents": "XXXXX*XXXXX*XXXXX*XXXXX*XXXXX*",
+          "DateOfAssignment": "20260204",
+          "LessonNumber": "11",
+          "TypeOfHomework": "20",
+          "TextLength": "155",
+          "NoteLength": "0",
+          "Deadline": "20260210",
+          "ListOfStudentsWithDoneWork": "",
+          "KomensId": "",
+          "Modified": "2026-02-05T04:55:49.067",
+          "ModifiedBy": ""
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1096",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-10-02",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "XXXXX",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2026",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2023-09-01",
+          "EvidTo": "2024-09-03",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "3S",
+          "YearInSchool": "3"
+        },
+        {
+          "SampleDate": "2026-10-02",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "XXXXX",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2014",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2010-09-01",
+          "EvidTo": "2013-09-30",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "4S",
+          "YearInSchool": "4"
+        },
+        {
+          "SampleDate": "2026-10-02",
+          "InsertedBy": "SSYSMA",
+          "InternalCode": "XXXXX",
+          "Deleted": "True",
+          "RoleName": "ArchivedStudent",
+          "LeaveYear": "2014",
+          "ClassAbbrev": "3.A",
+          "EvidFrom": "2010-09-01",
+          "EvidTo": "",
+          "BranchCode": "J",
+          "AttendanceType": "65",
+          "EndAttendanceCode": "",
+          "YearInSchool": "4"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1106",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-10-04",
+          "IsFlexiMinutesUsed": "0"
+        }
+      ]
+    },
+    {
+      "requestDetails": {
+        "applicationVersion": "2.2.914.5",
+        "queryId": "sqlX1111",
+        "registrationNumber": XXXX,
+        "installationId": "/LM/W3SVC/7/ROOT",
+        "databaseId": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX",
+        "queryStatus": 0
+      },
+      "data": [
+        {
+          "SampleDate": "2026-10-04",
+          "Year": "2026/27",
+          "Semester": "1"
+        }
+      ]
+    }
+  ]
+}
