@@ -1,0 +1,108 @@
+Sběr weblog tabulky
+Sběr webmsg tabulky
+Sběr webmsg_f tabulky
+Sběr dat z tabulky LicenseAgreement
+Covid testování
+Sběr WebUser
+Sběr tříd
+Sběr dat o verzi SQL serveru
+Sběr dat bakusers
+Sběr žáci
+Sběr předmětů
+Sběr učitelů
+Sběr skupin učitelů
+Sběr dat absence
+Sběr dat suplování
+Sběr dat pololetní klasifikace
+Sběr dat - typy plateb
+Sběr dat - počty účtů po třídách
+Sběr dat - Bankovní výpisy
+Sběr dat - řádky platebních dokladů
+Sběr dat - Platební doklady
+Sběr dat - Šablona souhlasu
+Sběr dat - Šablona souhlasu - položky tabulky
+Sběr dat - Souhlasy
+Sběr dat - Souhlasy - položky tabulky
+Sběr dat - Položka deníku
+Sběr dat - Detail položky deníku
+Sběr dat - Příjemce souhlasu
+Sběr dat - Verze .NET klientských počítačů
+Sběr dat - Množství LiveID na školách
+Sběr dat - Zapomenuté heslo - požadavky uživatelů
+Sběr dat - Komens zprávy
+Sběr dat - Komens přílohy
+Sběr dat - aktuální a maximální velikost databáze
+Sběr dat - Rodiče jako fyzické osoby
+Sběr dat - Vztah rodiče k dítěti
+Sběr dat - Výchovná opatření
+Sběr dat - Budoucí studium
+Sběr dat - Velikosti tabulek
+Sběr dat - Průběžná klasifikace
+Sběr dat - Družina - oddělení
+Sběr dat - Družina - Vazba studenta na oddělení
+Sběr dat - Družina - Třídní kniha
+Sběr dat - Družina - Historie
+Sběr dat - Propojené účty
+Sběr dat - Parametry aplikace
+Sběr dat - Plán akcí
+Sběr dat - Poznámky v plánu akcí
+Sběr dat - Knihovna - Soubory
+Sběr dat - Knihovna - Knihy
+Sběr dat - Knihovna - Čtenáři
+Sběr dat - Knihovna - Výpůjčky
+Sběr dat - Knihovna - Skladové karty
+Sběr dat - Knihovna - rezervace
+Sběr dat - Knihovna - upomínky
+Sběr dat - Přijímačky - Přijímací řízení
+Sběr dat - Přijímačky - Obory přijímacího řízení
+Sběr dat - Přijímačky - Kola přijímacího řízení
+Sběr dat - Přijímačky - Kritéria
+Sběr dat - Přijímačky - Kritéria výpočty
+Sběr dat - Přijímačky - Vazba kritéria na kolo
+Sběr dat - Přijímačky - Předměty
+Sběr dat - Přijímačky - Vazba kritéria na předměty
+Sběr dat - Přijímačky - Vazba kritéria na období
+Sběr dat - Přijímačky - Nastavení
+Sběr dat - Přijímačky - Skupiny
+Sběr dat - Přijímačky - Vazba skupiny na termín
+Sběr dat - Přijímačky - Tagy
+Sběr dat - Přijímačky - Osoby
+Sběr dat - Přijímačky - Přístupová práva
+Sběr dat - Prijímačky - Vazba uchzeče na tagy
+Sběr dat - Prijímačky - Vazba uchzeče na zástupce
+Sběr dat - Prijímačky - Použití kritéria
+Sběr dat - Prijímačky - Počet kritérií pro uchazeče
+Sběr dat - Prijímačky - Zkouška
+Sběr dat - Prijímačky - Termín
+Sběr dat - ISIC
+Sběr dat - Přístupový systém (d_brana)
+Sběr dat - Přístupový systém (d_pohyb)
+Sběr dat - sběr sloupců se špatným collation (které nejsou v collation Czech_CI_AS)
+Sběr dat - použití třídní knihy
+Sběr dat - vytvořené úvazky na nový školní rok
+Sběr dat - Průběžná klasifikace hlavičky
+Sběr dat - domácí úkoly
+Sběr dat - cykly
+Sběr dat - obory, které se vyučují na škole
+Sběr dat - Online schůzky
+Sběr dat - Hlavičky anket
+Sběr dat - Datové konektory
+Sběr dat - Struktura tabulek
+Sběr dat - Absence (nový sběr)
+Sběr dat - Absolventi
+Sběr dat - BankStatement2
+Sběr dat - ConsentRecipient2
+Sběr dat - Consent2
+Sběr dat - Visited - Vstupy uživatelů do desktopových nabídek
+Sběr dat - PoolAnswer
+Sběr dat - EmailConnection
+Sběr dat - filtry na kartě žáka, učitele
+Sběr dat - Kdo využívá flexi rozvrh
+Sběr dat - BKMEM - posbírat způsob tvorby loginů z PUBLIC.INI
+Sběr dat - ExtLic - licence
+Sběr dat - jaké banky školy používají
+Sběr dat - staré platby v Evidenci
+Sběr dat - aktuální školní rok u škol
+Sběr dat - uživatelská pole na kartách žáka a učitele
+Sběr dat - Používaný modul suplovaní
+Testovací insert
