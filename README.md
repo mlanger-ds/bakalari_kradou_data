@@ -1,0 +1,10 @@
+# Firma Bakaláři krade škole data #
+Webová aplikace na IIS serveru (lokálně provozovaném) se pravidelně (téměř) každou noc připojuje na stats.bakalari.cz.
+Odtud získá seznam příkazů, které provede - získá data z databáze a odešle je firmě Bakaláři na stats.bakalari.cz
+Je to cca stovka příkazů, která získává informace např. o uživatelích, učitelích, absencích, bankovních výpisech, přijímačkách, konfiguraci bakalářů, ...
+Proč tvrdím "krade" - protože bez vědomí zákazníka získává jeho data, jeho vlastnictví prostřednictvím zadních vrátek (backdoor) v software.
+Podrobnosti (kompletní výpisy příkazů, odesílaných předávaných dat,... ze 4. 10. 2026) na https://github.com/mlanger-ds/bakalari_kradou_data
+Jak tomu zabránit?
+Jednoduše - na webovém IIS serveru do souboru C:\Windows\System32\drivers\etc\hosts doplnit řádek
+127.0.0.1   stats.bakalari.cz
+Na to jaká a kam přenáší webová aplikace bakaláři jsem se zeptal 17. 1. 2026, tiket #417458 - dosud bez odpovědi.
