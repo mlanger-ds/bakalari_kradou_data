@@ -10,8 +10,6 @@ Proč tvrdím "krade" - protože bez vědomí zákazníka získává jeho data, 
 
 Existence takových zadních vrátek, (umožňují přijímat nejen SQL příkazy SELECT ale i UPDATE, INSERT, DELETE tj. i měnit a mazat data - aktuálně ověřuji v testovacím prostředí zda to opravdu jde) je velmi vážná bezpečnostní zranitelnost.
 
-Podrobnosti (kompletní výpisy příkazů, odesílaných předávaných dat,... ze 4. 10. 2026) na https://github.com/mlanger-ds/bakalari_kradou_data
-
 ### Jak tomu zabránit? ###
 Jednoduše - na webovém IIS serveru do souboru `C:\Windows\System32\drivers\etc\hosts` doplnit řádek (jsou nutná administrátorská práva)
 `127.0.0.1   stats.bakalari.cz`
