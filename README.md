@@ -2,6 +2,7 @@
 Webová aplikace na IIS serveru (lokálně provozovaném) se pravidelně (téměř) každou noc připojuje na stats.bakalari.cz.  
 Odtud získá seznam příkazů, které provede - získá data z databáze a odešle je firmě Bakaláři na stats.bakalari.cz  
 Je to cca stovka příkazů, která získává informace např. o uživatelích, učitelích, absencích, bankovních výpisech, přijímačkách, konfiguraci bakalářů, ...
+[Seznam popisů příkazů](https://github.com/mlanger-ds/bakalari_kradou_data/blob/main/prijate_prikazy_popisy.txt) a kompletní výpis [prijate_prikazy.json](https://github.com/mlanger-ds/bakalari_kradou_data/blob/main/prijate_prikazy.json)
 
 Proč tvrdím "krade" - protože bez vědomí zákazníka získává jeho data, jeho vlastnictví prostřednictvím zadních vrátek (backdoor) v software.
 
