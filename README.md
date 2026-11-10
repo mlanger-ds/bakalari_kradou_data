@@ -1,4 +1,4 @@
-# Firma Bakaláři krade škole data #
+# Firma Bakaláři krade škole data - backdoor ve webové apilkaci#
 Webová aplikace na IIS serveru (lokálně provozovaném) se pravidelně (téměř) každou noc připojuje na stats.bakalari.cz.  
 Odtud získá seznam příkazů, které provede - získá data z databáze a odešle je firmě Bakaláři na stats.bakalari.cz (nejsou to webové stránky, proto po kliknutí prohlížeč nic nezobrazí)
 
