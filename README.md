@@ -6,7 +6,7 @@ Je to cca stovka příkazů, které získávají informace např. o uživatelíc
 
 [Seznam popisů příkazů](https://github.com/mlanger-ds/bakalari_kradou_data/blob/main/prijate_prikazy_popisy.txt) a kompletní výpis [prijate_prikazy.json](https://github.com/mlanger-ds/bakalari_kradou_data/blob/main/prijate_prikazy.json) vč. SQL příkazů.  
 Příkazy zarovnané SQL pro lepší čtení [queries_sql_indented.json](https://github.com/mlanger-ds/bakalari_kradou_data/blob/main/queries_sql_indented.json)  
-Ukázka odesílaných dat (anonymizovaná, citlivé udaje nahrazeny XXXX) [send_first_3_anon.json](https://github.com/mlanger-ds/bakalari_kradou_data/blob/main/send_first_3_anon.json)
+Ukázka odesílaných dat (mnou anonymizovaná, údaje nahrazeny XXXX - skutečně odesílaná data jsou pouze pseudonymizovaná, obsahují unikátní identifikátory osob a neagregovaná) [send_first_3_anon.json](https://github.com/mlanger-ds/bakalari_kradou_data/blob/main/send_first_3_anon.json)
 
 Proč tvrdím "krade" - protože bez vědomí zákazníka získává jeho data, jeho vlastnictví prostřednictvím zadních vrátek (backdoor) v software.
 
