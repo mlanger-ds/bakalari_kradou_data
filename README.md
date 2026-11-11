@@ -10,6 +10,8 @@ Ukázka odesílaných dat (mnou anonymizovaná, údaje nahrazeny XXXX - skutečn
 
 Proč tvrdím "krade" - protože bez vědomí zákazníka získává jeho data, jeho vlastnictví prostřednictvím zadních vrátek (backdoor) v software.
 
+Existence takových zadních vrátek, (umožňují přijímat nejen SQL příkazy SELECT ale i UPDATE, INSERT, DELETE tj. i měnit a mazat data ? - aktuálně ověřuji v testovacím prostředí zda to opravdu jde) je velmi vážná bezpečnostní zranitelnost.
+
 ### Jak tomu zabránit? ###
 Jednoduše - na webovém IIS serveru do souboru `C:\Windows\System32\drivers\etc\hosts` doplnit řádek (jsou nutná administrátorská práva)
 `127.0.0.1   stats.bakalari.cz`  
